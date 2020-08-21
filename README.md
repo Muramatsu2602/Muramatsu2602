@@ -8,9 +8,6 @@
 ### Connect with me:
 [<img align="left" alt="Muramatsu2602 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/pedro-kenzo-m-5345281a7
----
-
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -19,3 +16,5 @@
 </details>
 <!-- Variables in README.md -->
 
+
+[linkedin]: https://www.linkedin.com/in/pedro-kenzo-m-5345281a7

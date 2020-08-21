@@ -2,8 +2,9 @@
 
 
 ## I'm an undergrad student, Wannabe Developer and Tech Enthusiast!
-- 🎓 I’m currently working towards a B.Sc. Computer Science degree @ University of São Paulo
-- 🌱 I’m trying to learn a bit of everything programming-related that I can grasp my hands on
+- 🎓 I’m currently working towards a B.Sc. Computer Science degree
+- 🌱 I’m trying to learn a bit of everything programming-related
+- 🥅 2020 Goals: Integrate programming into my routine
 
 ### Connect with me:
 [<img align="left" alt="Muramatsu2602 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,7 +16,7 @@
   <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
 
 </details>
-<!-- Variables in README.md -->
 
+<!-- Variables in README.md -->
 
 [linkedin]: https://www.linkedin.com/in/pedro-kenzo-m-5345281a7

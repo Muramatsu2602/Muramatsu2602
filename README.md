@@ -4,7 +4,7 @@
 ## I'm a Student, Wannabe Developer and Tech Enthusiast!
 - 🎓 I’m currently working towards a B.Sc. Computer Science degree
 - 🌱 I’m trying to learn a bit of everything programming-related
-- 🥅 2020 Goals: Integrate programming into my routine
+- 🥅 2020 Goals: To make problem-solving a habit
 
 ### Connect with me:
 [<img align="left" alt="Muramatsu2602 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

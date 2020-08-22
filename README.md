@@ -1,7 +1,7 @@
 ### Hello there, I'm Kenzo aka - Muramatsu2602 👋
 
 
-## I'm an Undergrad Student, Wannabe Developer and Tech Enthusiast!
+## I'm an Student, Wannabe Developer and Tech Enthusiast!
 - 🎓 I’m currently working towards a B.Sc. Computer Science degree
 - 🌱 I’m trying to learn a bit of everything programming-related
 - 🥅 2020 Goals: Integrate programming into my routine

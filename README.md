@@ -3,7 +3,7 @@
 
 ## I'm a Student, Wannabe Developer and Tech Enthusiast!
 - 🎓 I’m currently working towards a B.Sc. Computer Science degree
-- 🌱 I’m trying to learn a bit of everything programming-related
+- 🌱 I'm learning some python and web dev for fun!
 - 🥅 2020 Goals: To make problem-solving a habit
 
 ### Connect with me:

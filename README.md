@@ -2,6 +2,8 @@
 
 
 ## I'm a Student, Wannabe Developer and Tech Enthusiast!
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" /> </p>
+
 - 🎓 I’m currently working towards a B.Sc. Computer Science degree
 - 🌱 I'm learning some python and web dev for fun!
 - 🥅 2020 Goals: To make problem-solving a habit
@@ -10,9 +12,14 @@
 <!-- 
 [<img align="left" alt="Muramatsu2602 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
+<p align="center">
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)](https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromuramatsuc@gmail.com)](mailto:pedromuramatsuc@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/kenzo_muramatsu/)](https://www.instagram.com/kenzo_muramatsu/)
+
+</p>
+
  <br>
  <hr>
 <details>

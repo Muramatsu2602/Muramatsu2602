@@ -1,6 +1,5 @@
 <h1 align="center"> Greetings! I'm Kenzo aka - Muramatsu2602 👋</h1>
 <h2 align="left"> I'm a Student, Wannabe Developer and Tech Enthusiast!</h2>
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" /></div>
 
 - 🎓 I’m currently working towards a B.Sc. Computer Science degree
 - 🌱 I'm learning some python and web dev for fun!
@@ -19,11 +18,10 @@
 </p>
 
  <hr>
-<details>
-  <summary>:zap: Github Stats</summary>
-
+ 
+  <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
+  
+  ### Github Stats:
   <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/pedro-kenzo-m-5345281a7

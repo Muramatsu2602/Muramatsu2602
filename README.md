@@ -1,6 +1,6 @@
 <h1 align="center"> Greetings! I'm Kenzo aka - Muramatsu2602 👋</h1>
 <h2 align="left"> I'm a Student, Wannabe Developer and Tech Enthusiast!</h2>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" /> </p>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" /></div>
 
 - 🎓 I’m currently working towards a B.Sc. Computer Science degree
 - 🌱 I'm learning some python and web dev for fun!

@@ -18,10 +18,8 @@
 </p>
 
  <hr>
- 
+ <summary>:zap: Github Stats</summary>
+ <details>
   <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
-  
-  ### Github Stats:
-  <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
-
+</details>
 [linkedin]: https://www.linkedin.com/in/pedro-kenzo-m-5345281a7

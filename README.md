@@ -20,7 +20,6 @@
 
 </p>
 
- <br>
  <hr>
 <details>
   <summary>:zap: Github Stats</summary>

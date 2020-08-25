@@ -1,9 +1,9 @@
 <h1 align="center"> Greetings! I'm Kenzo aka - Muramatsu2602 👋</h1>
 <h2 align="left"> I'm a Student, Wannabe Developer and Tech Enthusiast!</h2>
 
-- 🎓 I’m currently working towards a B.Sc. Computer Science degree
-- 🌱 I'm learning some python and web dev for fun!
-- 🥅 2020 Goals: To make problem-solving a habit
+•  🎓 I’m currently working towards a B.Sc. Computer Science degree
+•  🌱 I'm learning some python and web dev for fun!
+•  🥅 2020 Goals: To make problem-solving a habit
 
 ### Connect with me:
 <!-- 

@@ -6,6 +6,7 @@
 •  🥅 2020 Goals: To make problem-solving a habit
 
 ### Languages and Tools:
+
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25"/>
@@ -18,9 +19,7 @@
 
 
 ### Connect with me:
-<!-- 
-[<img align="left" alt="Muramatsu2602 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
--->
+
 <p align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)](https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)
@@ -33,9 +32,5 @@
  <details>
   <summary>:zap: Github Stats</summary>
    <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
-
-  <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
+   <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
 </details>
-
-
-[linkedin]: https://www.linkedin.com/in/pedro-kenzo-m-5345281a7

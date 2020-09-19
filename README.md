@@ -1,9 +1,13 @@
 <h1 align="center"> Greetings! I'm Kenzo aka - Muramatsu2602 👋</h1>
-<h2 align="left"> I'm a Student, Wannabe Developer and Tech Enthusiast!</h2>
+<h2 align="left"> 
+   I'm a Student, Wannabe Developer and Tech Enthusiast!
+   <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
+</h2>
 
 •  🎓 I’m currently working towards a B.Sc. Computer Science degree <br>
 •  🌱 I'm learning some python and web dev for fun! <br>
 •  🥅 2020 Goals: To make problem-solving a habit
+
 
 ### Languages and Tools:
 
@@ -32,7 +36,8 @@
  <hr>
  <details>
   <summary>:zap: Github Stats</summary>
-   <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
-   <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true/>
+   <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
+   <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&language=compact&hide_border=true" />
+
 </details>
 

@@ -5,7 +5,7 @@
 </h2>
 
 •  🎓 I’m currently working towards a B.Sc. Computer Science degree <br>
-•  🌱 I'm learning web dev and python on the side.
+•  🌱 I'm learning web dev and python on the side. <br>
 •  🥅 2021 Goals: Expanding my portifolio!
 
 

@@ -1,12 +1,12 @@
 <h1 align="center"> Greetings! I'm Kenzo aka - Muramatsu2602 👋</h1>
 <h2 align="left"> 
-   I'm a Student, Wannabe Developer and Tech Enthusiast!
+   I'm a Student, Aspiring Developer and Tech Enthusiast!
    <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 
 •  🎓 I’m currently working towards a B.Sc. Computer Science degree <br>
 •  🌱 I'm learning web dev and python on the side. <br>
-•  🥅 2021 Goals: Expanding my portifolio!
+•  🥅 2021 Goals: Expand my portifolio and lots of networking!
 
 
 ### Languages and Tools:

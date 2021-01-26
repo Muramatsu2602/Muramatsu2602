@@ -1,4 +1,3 @@
-<h1 align="center"> Greetings! I'm Kenzo aka - Muramatsu2602 👋</h1>
 <h2 align="left"> 
    I'm a Student, Aspiring Developer and Tech Enthusiast!
    <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />

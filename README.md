@@ -5,7 +5,7 @@
 
 •  🎓 I’m currently working towards a B.Sc. Computer Science degree <br>
 •  🌱 I'm learning web dev and python on the side. <br>
-•  🥅 2021 Goals: Expand my portifolio and lots of networking!
+•  🥅 2021 Goals: To expand my portifolio and do lots of networking!
 
 
 ### Languages and Tools:

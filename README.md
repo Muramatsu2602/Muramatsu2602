@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   I'm a Student, Aspiring Developer and Tech Enthusiast!
+   I'm a Student, Web Developer and Tech Enthusiast!
    <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 

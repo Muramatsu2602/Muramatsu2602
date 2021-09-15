@@ -19,6 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="vue" width="25" height="25"/>
 
 
 </p>
@@ -35,9 +36,9 @@
 
  <hr>
  <details>
-  <summary>:zap: Github Stats</summary>
+   <summary>:zap: <strong>Github Stats</strong> </summary>
    <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
    <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&language=compact&hide_border=true" />
-
+   <img align="center" alt="weekly summary" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Muramatsu2602&hide_title=false&hide_border=true&langs_count=5" />
 </details>
 

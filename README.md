@@ -39,6 +39,6 @@
    <summary>:zap: <strong>Github Stats</strong> </summary>
    <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
    <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&language=compact&hide_border=true" />
-   <img align="center" alt="weekly summary" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Muramatsu2602&hide_title=false&hide_border=true&langs_count=5" />
+   <img align="left" alt="weekly summary" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Muramatsu2602&hide_title=false&hide_border=true&langs_count=5" />
 </details>
 

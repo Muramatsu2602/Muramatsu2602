@@ -3,9 +3,11 @@
    <img align="right" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 
-•  🎓 I’m currently working towards a B.Sc. Computer Science degree <br>
+<img align="right" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=Muramatsu2602&hide_border=true"/>
+
+•  🎓 I’m currently working towards a Computer Science degree <br>
 •  🌱 I'm learning web dev and python on the side. <br>
-•  🥅 2021 Goals: To expand my portifolio and do lots of networking!
+•  🥅 2021 Goals: Expand my portifolio and do lots of networking!
 
 
 ### Languages and Tools:
@@ -26,13 +28,10 @@
 
 
 ### Connect with me:
-
-<p align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)](https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromuramatsuc@gmail.com)](mailto:pedromuramatsuc@gmail.com)
 
-</p>
 
  <hr>
  <details>
@@ -40,5 +39,6 @@
    <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
    <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&language=compact&hide_border=true" />
    <img align="left" alt="weekly summary" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Muramatsu2602&hide_title=false&hide_border=true&langs_count=5" />
+   
 </details>
 

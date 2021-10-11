@@ -5,11 +5,13 @@
 
 <img align="right" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=Muramatsu2602&hide_border=true"/>
 
+
+### More about me:
+
 •  🎓 I’m currently working towards a Computer Science degree <br>
 •  🔬 Undergrad researcher in Intelligent Tutoring Systems <br>
 •  🌱 I'm learning web dev and python on the side. <br>
-•  🥅 2021 Goals: Expand my portifolio and do lots of networking!
-
+•  🥅 2021 Goals: networking and portifolio expansion!
 
 ### Languages and Tools:
 
@@ -29,10 +31,9 @@
 
 
 ### Connect with me:
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)](https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromuramatsuc@gmail.com)](mailto:pedromuramatsuc@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muramatsu-pedro/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Pedro-Kenzo-Muramatsu-Carmo)
 
  <hr>
  <details>

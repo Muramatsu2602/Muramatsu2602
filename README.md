@@ -8,7 +8,7 @@
 
 ### More about me:
 
-•  🎓 Currently a Computer Science undergrad <br>
+•  🎓 Persuing a degree in Computer Science <br>
 •  🔬 Undergrad researcher in Intelligent Tutoring Systems <br>
 •  🌱 I'm learning web dev and python on the side. <br>
 •  🥅 2021 Goals: networking and portifolio expansion!

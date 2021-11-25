@@ -25,6 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="vue" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="25" height="25"/>
 
 
 </p>

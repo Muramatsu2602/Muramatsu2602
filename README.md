@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   I'm a Student, Web Developer and Tech Enthusiast! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">
+   Hi there! I'm a Web Developer and Beginning Researcher! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 
@@ -8,10 +8,10 @@
 
 ### More about me:
 
-•  🎓 Persuing a degree in Computer Science <br>
-•  🔬 Undergrad researcher in Intelligent Tutoring Systems <br>
-•  🌱 I'm learning web dev and python on the side. <br>
-•  🥅 2022 Goals: study DSA for interviews, work on my repertoir
+•  👨‍💻 Mostly working with web dev. <br>
+•  🔬 Undergrad researcher in Learning Analysis<br>
+•  🌱 Learning about python and OWASP on the side. <br>
+•  🥅 2022 Goals: practicing for tech interviews
 
 ### Languages and Tools:
 

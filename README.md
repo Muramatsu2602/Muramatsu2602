@@ -39,7 +39,7 @@
 
  <hr>
  <details>
-   <summary>:zap: <strong>Github Stats</strong> </summary>
+   <summary>:zap: <strong> Click here to see my Github Stats</strong> </summary>
    <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
    <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&language=compact&hide_border=true" />
 

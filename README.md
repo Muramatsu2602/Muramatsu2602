@@ -7,10 +7,10 @@
 
 ### More about me:
 
-•  👨‍💻 Mostly working with web dev. <br>
+•  👨‍💻 Mostly working as a web dev. <br>
 •  🔬 Undergrad researcher in Learning Analysis<br>
-•  🌱 Learning about python and OWASP on the side. <br>
-•  🥅 2022 Goals: practicing for tech interviews
+•  🌱 Learning about python on the side. <br>
+•  🥅 2022 Goals: training for tech interviews
 
 ### Languages and Tools:
 
@@ -28,7 +28,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="25" height="25"/>
 </p>
 
-### Connect with me:
+### 📬 Reach out to me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muramatsu-pedro/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromuramatsuc@gmail.com)

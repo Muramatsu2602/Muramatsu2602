@@ -8,7 +8,7 @@
 ### More about me:
 
 •  👨‍💻 Mostly working as a web dev. <br>
-•  🔬 Undergrad researcher in Learning Analysis<br>
+•  🔬 Undergrad researcher in Learning  Analytics<br>
 •  🌱 Learning about python on the side. <br>
 •  🥅 2022 Goals: training for tech interviews
 

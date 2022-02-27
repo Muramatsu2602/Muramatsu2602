@@ -5,14 +5,14 @@
 
 <img align="right" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=Muramatsu2602&hide_border=true"/>
 
-### More about me:
+### ➕ More about me:
 
 •  👨‍💻 Mostly working as a web dev. <br>
 •  🔬 Undergrad researcher in Learning  Analytics<br>
 •  🌱 Learning about python on the side. <br>
 •  🥅 2022 Goals: training for tech interviews
 
-### Languages and Tools:
+### 🧰 Tech Stack:
 
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>

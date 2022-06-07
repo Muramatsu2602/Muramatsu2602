@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   Hi there! I'm a Web Dev and Beginning Researcher in EdTech! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">
+   Hi there! I'm a Web Dev and Beginning Researcher in EdTech! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 

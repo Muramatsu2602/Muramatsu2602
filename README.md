@@ -30,10 +30,10 @@
 
 ### 🗣️ Supported Languages:
 <p>
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/jp.svg" alt="jp" width="25" height="25"/>
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="us" width="25" height="25"/>
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg" alt="es" width="25" height="25"/>
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="es" width="25" height="25"/>
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/jp.svg" alt="jp" width="20" height="20"/> 
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="us" width="20" height="20"/> 
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg" alt="es" width="20" height="20"/> 
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="es" width="20" height="20"/> 
 </p>
 
 ### 📬 Reach out to me:

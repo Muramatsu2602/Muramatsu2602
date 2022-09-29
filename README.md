@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   Hi there! I'm a Web Dev and Beginning Researcher in EdTech! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+   Hi there! I'm a Fullstack Dev and Researcher in Leaning Analytics! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 
@@ -26,6 +26,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="vue" width="25" height="25"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="25" height="25"/>
+</p>
+
+### 🗣️ Supported Languages:
+<p>
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/jp.svg" alt="jp" width="25" height="25"/>
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="us" width="25" height="25"/>
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg" alt="es" width="25" height="25"/>
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="es" width="25" height="25"/>
 </p>
 
 ### 📬 Reach out to me:

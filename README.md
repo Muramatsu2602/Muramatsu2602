@@ -11,7 +11,7 @@
 
 •  👨‍💻 Undergrad Compsci at USP, exchange year in Japan (Kyushu Uni)<br>
 •  🔬 Undergrad researcher in Learning  Analytics<br>
-•  🥅 2023 Goals: authoring another paper, securing an internship in a Big Tech
+•  🥅 2023 Goals: authoring another paper, securing an internship at a Big Tech
 
 ### 🧰 Tech Stack:
 

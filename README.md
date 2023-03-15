@@ -9,10 +9,9 @@
 
 ### ➕ More about me:
 
-•  👨‍💻 Mostly working as a web dev. <br>
+•  👨‍💻 Undergrad Compsci at USP, exchange year in Japan (Kyushu Uni)<br>
 •  🔬 Undergrad researcher in Learning  Analytics<br>
-•  🌱 Learning about python on the side. <br>
-•  🥅 2022 Goals: training for tech interviews
+•  🥅 2023 Goals: authoring another paper, securing an internship in a Big Tech
 
 ### 🧰 Tech Stack:
 

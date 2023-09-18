@@ -37,11 +37,6 @@
 <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="es" width="20" height="20"/> 
 </p>
 
-### 📬 Reach out to me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muramatsu-pedro/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Pedro-Kenzo-Muramatsu-Carmo)
-
 <hr>
 <details>
    <summary>:zap: <strong> Click here to see my Github Stats</strong> </summary>

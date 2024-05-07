@@ -1,5 +1,5 @@
 <h2 align="left"> 
-   Hi there! I'm Pedro Kenzo Muramatsu Carmo - Fullstack Developer, BI & Data Analysis Intern, and Researcher in Learning Analytics! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+   Hi there! I'm Pedro Muramatsu  - Fullstack Developer, BI & Data Analysis Intern, and Researcher in Learning Analytics! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
 </h2>
 

@@ -1,47 +1,40 @@
-<h2 align="left"> 
-   Hi there! I'm Pedro Muramatsu  - Fullstack Developer, Technical Student at CERN, and Researcher in Learning Analytics & Data Science! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
-   <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=muramatsu2602" alt="muramatsu2602" />
+<h2 align="left">
+  Hi there! I’m Pedro Muramatsu — DevOps Engineer at CERN, Full‑Stack Developer, and AI & Learning Analytics Researcher! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Muramatsu2602" alt="muramatsu2602" />
 </h2>
 
-### 🔍 More about me:
+### 🔍 About Me
+- 👨‍💻 **Current**: Modernizing observability & data pipelines for 7 PB+ NetApp clusters at CERN  
+- 🤖 **Co‑Founder & CTO** of **SignLink**, an AI‑driven, gamified sign‑language learning platform (START Global Fellow)  
+- 💡 **Founder** of **RAIA**, Brazil’s first student‑led AI initiative—built a selective fellowship and industry partnerships  
+- 🏅 **Awards & Honors**: JASSO Scholar; PIBIC‑CNPq & FIPAI; 1st Place German‑Brazilian EdTech Hackathon; 2nd Place Santander X Brazil; 1st Place START Pitch Brazil; Top 3 KAUST Pitch  
+- 🎯 **Next**: Scale SignLink globally • Launch RAIA Fellowship 2025 • Open‑source CERN observability tooling • Deepen MLOps expertise  
 
-• 👨‍💻 Currently a Technical Student at CERN, working on modernizing observability stacks for NetApp storage systems and improving data storage efficiency<br>
-• 🔬 Focused on Data Science, AI-driven solutions, and Learning Analytics, with a strong interest in accessibility and inclusivity in tech<br>
-• 🏅 Recipient of multiple scholarships and awards, including the JASSO Scholarship, 1st Place in the German-Brazilian EdTech Hackathon, and 2nd Place in the Santander X Brazil Award<br>
-• 🥅 2024 Goals: Continue developing solutions for inclusive technologies, contribute to open-source projects, and expand my expertise in AI and data systems at CERN
+---
 
-### 🧰 Tech Stack:
-
+### 🧰 Tech Stack
 <p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus" width="30" height="30"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="30" height="30"/>
 </p>
 
-### 🗣️ Supported Languages:
-<p>
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/jp.svg" alt="jp" width="20" height="20"/> 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="us" width="20" height="20"/> 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg" alt="es" width="20" height="20"/> 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="br" width="20" height="20"/> 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/fr.svg" alt="fr" width="20" height="20"/>
-</p>
+---
 
-<hr>
+### 🗣️ Languages & Interests
+🇧🇷 Portuguese (Native) • 🇺🇸 English (Fluent) • 🇯🇵 Japanese (Advanced) • 🇪🇸 Spanish, 🇫🇷 French (Intermediate)  
+
+---
+
 <details>
-   <summary>:zap: <strong> Click here to see my Github Stats</strong> </summary>
-   <img align="left" alt="Muramatsu2602's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" />
-   <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&layout=compact&hide_border=true" />
+  <summary>💻 GitHub Stats</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Muramatsu2602&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muramatsu2602&layout=compact&hide_border=true" alt="Top Langs" />
 </details>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>

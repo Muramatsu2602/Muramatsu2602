@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi there! I’m Pedro Muramatsu — DevOps Engineer at CERN, Full‑Stack Developer, and AI & Learning Analytics Researcher! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
+  Hi there! I’m Pedro Muramatsu — Software Engineer at Grupo Quinto Andar, CERN Alumni, BsC Computer Science at USP <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
   <img align="right" src="https://komarev.com/ghpvc/?username=Muramatsu2602" alt="muramatsu2602" />
 </h2>
 

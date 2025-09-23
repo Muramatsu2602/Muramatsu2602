@@ -7,7 +7,7 @@
 - 👨‍💻 **Current**: ML Engineer II at QuintoAndar (Growth Data & AI) — building data-intensive applications, ML pipelines, and analytics infrastructure
 - 🛰️ **Past**: DevOps Engineer at CERN — led observability architecture for 7 PB+ NetApp clusters supporting LHC experiments
 - 🤖 **CTO** of **SignLink** — AI-powered, gamified sign-language learning platform (START Global Fellow)
-- 💡 **Founder** of **RAIA** — Brazil’s first student-led AI initiative with international collaborations
+- 💡 **Founder** of **RAIA** — Brazil’s independent student-led AI initiative inspired by TUM.AI
 - 🏅 **Awards**: START Global, Santander X, KAUST Top Pitch, JASSO, PIBIC-CNPq, FIPAI, Hackathons
 - 🎯 **Next**: Advance MLOps expertise • Scale SignLink globally • Expand RAIA Fellowship 2025
 

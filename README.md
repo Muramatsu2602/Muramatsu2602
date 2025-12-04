@@ -32,7 +32,7 @@
 ---
 
 ### 🗣️ Languages & Interests
-🇧🇷 Portuguese (Native) • 🇺🇸 English (Fluent) • 🇯🇵 Japanese (Advanced) • 🇪🇸 Spanish, 🇫🇷 French (Intermediate)
+🇧🇷 Portuguese (Native) • 🇺🇸 English (Fluent - C2) • 🇯🇵 Japanese (Fluent - JLPT N1) • 🇪🇸 Spanish, 🇫🇷 French (Intermediate)
 
 ---
 
